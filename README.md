@@ -8,6 +8,6 @@ This code contains the following three notebooks.
 (3) Supplementary_Figure_Code.ipynb : This notebook is for replicating the images in the supplementary section of the paper. The input data is in Data/Figure_Data.  
 
 Here is the flow chart:
-![Flow Chart for ACSCEND](https://github.com/SML-CompBio/ACSCEND/blob/main/FlowChart_ACSCEND.svg?raw=true)
+![Flow Chart for ACSCEND](https://github.com/SML-CompBio/ACSCEND/blob/main/FlowChart_ACSCEND.png?raw=true)
 
 
