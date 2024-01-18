@@ -2,7 +2,7 @@ CPU
 
 product: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
 vendor: Intel Corp.
-physical id: 4
+physical id:  4
 version: 6.140.1
 slot: U3E1
 size: 1474MHz
