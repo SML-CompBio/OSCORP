@@ -1,4 +1,4 @@
-# ACSCEND
+![ACSCEND](https://github.com/SML-CompBio/ACSCEND/blob/main/ACSCEND.png?raw=true)
 AI-based Cancer Stem Cell profiler and Neoplasia Deconvoluter
 
 This code contains the following three notebooks.
