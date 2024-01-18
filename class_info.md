@@ -1,4 +1,6 @@
-iPSC == iPCSC  
-hESC == hECSC  
-hMSC == hMCSC  
-hUSC == hUCSC  
+| Normal  | Cancer                  |
+|-------- | ---------------------------|
+| iPSC    | iPCSC  |
+| hESC    | ECSC   |
+| hMSC    | MCSC   |
+| hUSC    | UCSC   |
