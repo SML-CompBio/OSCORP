@@ -10,7 +10,7 @@ width: 64 bits
 clock: 100MHz
 
 RAM
-size: 8GB
+size: 8GiB
 width: 64 bits
 clock: 3200MHz (0.3ns)
 
