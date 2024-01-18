@@ -18,5 +18,5 @@ clock: 3200MHz (0.3ns)
 
 Operating Systems
 
-Ubuntu 23.10
+Ubuntu 23.10  
 Windows 11 Home 23H2
