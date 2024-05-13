@@ -2,7 +2,7 @@ kaleido==0.2.1
 kaplanmeier==0.1.9
 matplotlib==3.8.0
 matplotlib-inline==0.1.6
-mygene==3.2.2
+pygeneconverter==0.3
 nbclient==0.8.0
 nbconvert==7.7.3
 nbformat==5.9.2
